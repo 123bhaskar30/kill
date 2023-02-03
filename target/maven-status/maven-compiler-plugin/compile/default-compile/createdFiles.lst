@@ -1,0 +1,4 @@
+kill\MyBean.class
+kill\MyCamelContext.class
+kill\MyRouteBuilder.class
+kill\MyServlet.class
